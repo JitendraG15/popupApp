@@ -11,7 +11,7 @@ const MyComponent = () => {
   return (
     <div className="relative">
       <div className="w-[100vw] h-[100vh] bg-gray-100 flex flex-col justify-start items-center">
-        <div className="bg-gray-200 flex justify-evenly w-full p-2">
+        <div className="bg-blue-400 flex justify-evenly w-full p-2">
           <h1 className="font-semibold text-lg font-serif">xyz.com</h1>
           <button
             onClick={() =>
